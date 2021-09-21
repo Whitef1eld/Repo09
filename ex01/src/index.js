@@ -2,5 +2,7 @@
 function myTrueBoolean() {
     return true;
 }
+
+console.log(myTrueBoolean());
 // only change code above this line
 module.exports = myTrueBoolean;
